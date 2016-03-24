@@ -1,0 +1,11 @@
+lab3:
+    pe³ny zakres raportu nr 2 (w tym testy jednostkowe modelu)
+    zachowana wymagana funkcjonalnoœæ aplikacji z raportu 2,
+    zmiana interfejsu konsolowego na graficzny wykorzystuj¹cy komponenty Swing,
+    obowi¹zkowe elementy GUI:
+        menu (JMenu),
+        pasek narzêdziowy (JToolBar),
+        zaawansowana kontrolka (JTree lub JTable),
+        zaawansowany kontener (JSplitPane lub JTabbedPane),
+        okna komunikatów (JOptionPane),
+        obs³uga zdarzeñ g³ównego okna aplikacji (w szczególnoœci zamykanie aplikacji).

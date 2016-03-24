@@ -1,0 +1,5 @@
+1. The default runtime environment since version Lollipop (5.0) is: - A. Dalvik - B. Android Runtime - C. Zygote -B
+2. In what version of the system introduced energy saving mode Doze: - A. Android 6.0 (Marshmallow) - B. Android 4.4.x (KitKat) - C. Android 3.x (Honeycomb) -A
+3. What means INTENT - A. Screen respective application - B. Move between screens  - C. A service that runs in the background -B
+4. Commands that are supported natively by Google since version: - A. 4.4 - B. 5.0 - C. 4.1 -C
+5. What means NFC: - A. Near Field Communication - B. New Field Communication - C. Near Form Communication -A

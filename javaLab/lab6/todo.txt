@@ -1,0 +1,10 @@
+lab6:
+    pe³ny zakres raportu nr 5
+    przygotowanie struktury tabel
+    konfiguracja po³¹czenia z BD w pliku web.xml 
+    jednokrotne otwarcie po³¹czenia w aplikacji
+    dwa serwlety:
+        pierwszy - realizuj¹cy dostêp do czêœci obliczeniowej modelu i zapisuj¹cy wyniki (historiê obliczeñ) do BD,
+        drugi - realizuj¹cy dostêp do historii obliczeñ (lub innych danych przechowywanych w BD)
+    udostêpnienie przez serwlet wszystkich wpisów w BD na stronie internetowej 
+    obs³uga sytuacji wyj¹tkowych BD

@@ -1,0 +1,28 @@
+lab1:
+    aplikacja terminalowa,
+    podzia³ na pakiety klas wg szablonu model-widok,
+    przekazywanie parametrów uruchomieniowych do aplikacji w linii poleceñ,
+    obs³uga wyj¹tków zwi¹zanych z parametrami uruchomieniowymi,
+    zdefiniowanie w³asnego wyj¹tku w modelu i jego obs³uga w widoku;
+    w przypadku braku parametrów nale¿y zapewniæ interakcjê z u¿ytkownikiem z wykorzystaniem strumieni systemowych,
+    stosowanie "czystego" podejœcia obiektowego: sk³adniki wy³¹cznie prywatne i publiczne; pe³na hermetyzacja w szczególnoœci pól modelu,
+    stosowanie konwencji nazewniczej Javy (identyfikatory w jêzyku angielskim),
+    stosowanie sensownych komentarzy w jêzyku angielskim do wszystkich klas. metod i pól (równie¿ prywatnych)
+    wygenerowanie archiwum JAR
+    wygenerowanie dokumentacji w jêzyku angielskim (javadoc) uwzglêdniaj¹cej autora i wersjê klas oraz wszystkie ich sk³adniki - równie¿ prywatne,
+    poprawne przygotowanie ca³oœci raportu w postaci zarchiwizowanego katalogu projektu NetBeans.
+
+lab2:
+    pe³ny zakres raportu nr 1,
+    dodanie typowo-bezpiecznej kolekcji obiektów do klasy modelu,
+    wykorzystanie standardowych adnotacji,
+    wykorzystanie pêtli for-each
+    wykorzystanie jednego z nastêpuj¹cych elementów:
+        typ wyliczeniowy,
+        w³asny typ generyczny,
+        zmienna liczba parametrów metody,
+        w³asna adnotacja,
+        wyra¿enie lambda.
+    zdefiniowanie testów jednostkowych dla wszystkich publicznych metod znajduj¹cych siê w modelu (za wyj¹tkiem konstruktorów, setterów i getterów)
+    testy powinny obejmowaæ sytuacje poprawne, niepoprawne i graniczne dla ka¿dej testowanej jednostki,
+    nie testujemy wartoœciami granicznymi z zakresu wartoœci typów prostych.

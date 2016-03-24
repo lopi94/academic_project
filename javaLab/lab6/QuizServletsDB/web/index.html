@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Quiz</title>
+    </head>
+    <body>
+        <h1>Choose Quiz</h1>
+        <form action="Quiz">
+            <p>Nick:<input type=text size=20 name=nick></p>
+            <p><input type=radio name=whichQuiz value=0 checked>Quiz1</p>
+            <p><input type=radio name=whichQuiz value=1 checked>Quiz2</p>
+            <p><input type=radio name=whichQuiz value=2 checked>Quiz3</p>
+            <input type="submit" value="Run Quiz" />
+        </form>
+        <hr>
+        <h1>See Results</h1>
+        <form action="Results">
+            <input type="submit" value="Run Results" />
+        </form>
+    </body>
+</html>

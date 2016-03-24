@@ -1,0 +1,15 @@
+lab5:
+    model aplikacji z æwiczenia nr 4 wraz z poprawnymi testami jednostkowymi,
+    widok w postaci formatki zrealizowanej w jêzyku HTML uruchamianej pod kontrol¹ przegl¹darki internetowej;
+    dwa serwlety:
+        pierwszy - realizuj¹cy dostêp do czêœci obliczeniowej modelu,
+        drugi - realizuj¹cy dostêp do historii obliczeñ (lub innych danych przechowywanych w kolekcji danych w modelu)
+    jednakowa obs³uga metod GET i POST,
+    jednokrotne tworzenie modelu do obs³ugi wszystkich ¿¹dañ,
+
+    obs³uga braku i b³êdnych danych,
+
+    informowanie klienta o wyj¹tkach wystêpuj¹cych w modelu
+    wykorzystanie ciastek (zapis, odczyt i u¿ycie w programie inne ni¿ w programie demonstracyjnym)
+
+    podtrzymanie stanu sesji.

@@ -1,0 +1,5 @@
+1. Caretaker and Originator are part of a pattern: - A. Decorator - B. Memento - C. Flyweight -B
+2. Memory saving can be achieved using pattern: - A. Decorator - B. Memento - C. Flyweight -C
+3. The pattern specifying how to access the tree structures are: - A. Iterator - B. Composite - C. Observer -C
+4. If the parent class depends on the child class it is incompatible with the principle: - A. Dependency Inversion Principle - B. OpenClose Principle - C. Liskov's Substitution Principle -A
+5. The principle which says that once created code should not be modified, only expands - A. Dependency Inversion Principle - B. OpenClose Principle - C. Liskov's Substitution Principl -B

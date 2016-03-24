@@ -1,0 +1,10 @@
+lab4:
+pe³ny zakres raportu nr 3 (w tym testy jednostkowe modelu),
+zachowana wymagana funkcjonalnoœæ aplikacji z raportu 3,
+podzia³ aplikacji na dwie: klienta (zawieraj¹ca widok) i serwera TCP (zawieraj¹ca model),
+komunikacja pomiêdzy klientem a serwerem powinna zostaæ zaimplementowana w oddzielnych klasach (poza widokiem i modelem),
+w³asny protokó³ komunikacyjny, w którym kolejno przekazywane s¹ parametry do obliczeñ, a nastêpnie obliczenia s¹ uruchamiane,
+serwer powinien rozpoznawaæ nieprawid³ow¹ kolejnoœæ poleceñ protoko³u,
+ka¿de polecenie klienta powinno byæ potwierdzane przez serwer jednoliniowym komunikatem,
+wyj¹tki po stronie modelu powinny byæ raportowane odpowiednimi komunikatami po stronie klienta,
+obs³uga wyj¹tków wystêpuj¹cych podczas komunikacji.
